@@ -1,6 +1,16 @@
-# 🔥 PUBG TOOL 
+# 🔥 PUBG TOOL v3.0
 
- KEY-ZOEGAMER
+**PUBG Mobile Gaming Tool**
+
+[![Version](https://img.shields.io/badge/version-3.0-brightgreen)](https://github.com/lay6258/PUBG_TOOL)
+[![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-red)](https://opensource.org/licenses/MIT)
+
+---
+
+## 📸 Screenshots
+
+> Coming Soon
 
 ---
 
