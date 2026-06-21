@@ -10,7 +10,14 @@
 
 ## 📸 Screenshots
 
-> Coming Soon
+### 🔐 Login Page
+![Login Page](Screenshot_2026-06-21-16-18-27-838_com.termux-edit.jpg)
+
+### 🎮 Main Menu
+![Main Menu](Screenshot_2026-06-21-16-17-54-894_com.termux-edit.jpg)
+
+### 📥 PAK File Download
+![Download Page](Screenshot_2026-06-21-16-17-31-435_com.termux-edit.jpg)
 
 ---
 
